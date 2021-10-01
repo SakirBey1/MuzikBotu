@@ -1,8 +1,8 @@
 <h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [Bodrumlu](https://t.me/bodrumlubebekk)
-### Destek kanalı [@Loungemusicsupport](https://t.me/loungemusicsupport)
+#### POWERED BY [SakirBey](https://t.me/SakirHackOfficial99)
+### Destek kanalı [support](https://t.me/konseyanagrup)
 
 <p align="center">
   <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bodrumlubebek/LoungeMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SakirBey1/MuzikBotu)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -61,8 +61,8 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
-- [BODRUMLU OWNER](http://github.com/bodrumlu48): LoungeMusic Geliştirici
+- [DEVELOPER](http://github.com/SakirBey1): MüzikBotu'u Geliştirici
 
 
 #### DESTEK VERENLER
-- [SİRİDEV](https://t.me/sirisupport)
+- [ERZURUMLU](https://t.me/ByMisakiMey)
