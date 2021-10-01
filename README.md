@@ -1,4 +1,4 @@
-<h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
+<h1 align="centre">GrupMUSIC Version 2.1 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
 #### POWERED BY [SakirBey](https://t.me/SakirHackOfficial99)
