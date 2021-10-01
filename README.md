@@ -5,7 +5,6 @@
 ### Destek kanalı [support](https://t.me/konseyanagrup)
 
 <p align="center">
-  <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
 </p>
 
 <h2> Özellikler 🔥 </h2>
